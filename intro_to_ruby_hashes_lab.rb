@@ -25,7 +25,7 @@ def monopoly_with_third_tier
       four_pieces_owned: 200
     },
     names: {
-      one: nil,
+      reading_railroad: {},
       two: nil,
       three: nil,
       four: nil
