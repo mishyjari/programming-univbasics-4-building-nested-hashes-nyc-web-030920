@@ -18,7 +18,7 @@ def monopoly_with_third_tier
   # they'll guide you in how to modify what you just did to have more
   # complexity.
   {railroads: {rent_in_dollars: {
-    one: nil,
+    names: nil,
     two: nil,
     three: nil,
     four: nil
