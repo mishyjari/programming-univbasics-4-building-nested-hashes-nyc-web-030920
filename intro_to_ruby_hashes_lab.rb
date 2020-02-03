@@ -23,7 +23,12 @@ def monopoly_with_third_tier
     three: nil,
     four: nil
   },
-  names: nil,
+  names: {
+    one: nil,
+    two: nil,
+    three: nil,
+    four: nil
+  }
     
   }}
 end
